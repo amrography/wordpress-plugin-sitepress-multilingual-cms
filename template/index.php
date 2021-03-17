@@ -126,6 +126,7 @@
 						<div class="countdown"></div>
 					<?php } ?>
 
+
 					<!-- Subscribe -->
 					<div class="subscribe" id="newsletter">
 						<p><?php echo $axisConfig['subscribe_title']; ?></p>
