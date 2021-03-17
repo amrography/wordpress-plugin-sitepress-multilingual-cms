@@ -122,9 +122,10 @@
 					<?php } ?>
 
 					<!-- Countdown -->
-					<?php if ($axisConfig['service_visibility']) { ?>
+					<?php if ($axisConfig['countdown_visibility']) { ?>
 						<div class="countdown"></div>
 					<?php } ?>
+
 
 					<!-- Subscribe -->
 					<div class="subscribe" id="newsletter">
